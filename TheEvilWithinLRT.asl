@@ -1,6 +1,6 @@
 //Original Splitter by Mattmatt
 //IGT by Mysterion_06_
-//Startup Prompt, Text Components, & new start method added by Meta
+//Startup Prompt, Text Components, & LRT Timing added by Meta
 
 state("EvilWithin")
 {
